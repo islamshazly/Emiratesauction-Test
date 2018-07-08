@@ -12,7 +12,6 @@ target 'EmiratesauctionTest' do
 pod 'Alamofire'
 pod 'ObjectMapper'
 pod 'PKHUD'
-pod 'AlignedCollectionViewFlowLayout'
 pod 'Kingfisher'
 pod 'DateToolsSwift'
 
