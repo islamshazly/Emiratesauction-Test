@@ -1,0 +1,15 @@
+/* 
+  Localizable.strings
+  EmiratesauctionTest
+
+  Created by Islam Elshazly on 7/8/18.
+  Copyright © 2018 Islam Elshazly. All rights reserved.
+*/
+
+
+"Change_Lang_warrning" = "Restart the app to better Performance";
+"language_option_arabic" = "Arabic";
+"language_option_english" = "English";
+"cancel" = "Cancel";
+"yes" = "Yes";
+"no" = "No";
